@@ -1,0 +1,19 @@
+{
+  "name": "@sudoo/eslint-config-react-a11y",
+  "version": "1.0.0",
+  "description": ":cupid: A11y implementation for eslint",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDotDog/Sudoo-ESlint-Config-React-A11y.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudoDotDog/Sudoo-ESlint-Config-React-A11y/issues"
+  },
+  "homepage": "https://github.com/SudoDotDog/Sudoo-ESlint-Config-React-A11y#readme"
+}
